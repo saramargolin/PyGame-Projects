@@ -5,6 +5,7 @@
 <img src ="https://github.com/msingh4937/Projects/blob/master/GamePlan/capture1.PNG" width = "250 " height = "200">
 
 
-<br>
+
+
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a>
 <a href="https://youtu.be/_GikMdhAhv0e"> Installing Python 3.6 and PyGame</a>
